@@ -1,2 +1,2 @@
 # angular2
-formation
+formation.
